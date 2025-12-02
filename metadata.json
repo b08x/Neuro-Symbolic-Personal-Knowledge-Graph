@@ -1,0 +1,8 @@
+{
+  "name": "Neuro-Symbolic Personal Knowledge Graph",
+  "description": "A neuro-computational interface designed as a cognitive prosthetic. Uses a Dual-Stream architecture (Dorsal/Ventral) to map therapeutic processes to UI dynamics, featuring spatial thought mapping, real-time linguistic analysis, and multimodal Gemini integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
